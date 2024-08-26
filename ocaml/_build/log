@@ -1,6 +1,0 @@
-# dune init proj cryptopals
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Shared cache location: /Users/lokilow/.cache/dune/db
-# Workspace root: /Users/lokilow/zk/cryptopals/cryptopals
-# Auto-detected concurrency: 16
